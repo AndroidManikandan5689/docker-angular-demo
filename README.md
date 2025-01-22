@@ -1,5 +1,3 @@
-Here's a corrected and formatted version of your GitHub README content:
-
 ```markdown
 # Docker Angular Demo
 
